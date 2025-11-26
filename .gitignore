@@ -27,4 +27,7 @@ frontend/build/
 .vscode/
 .idea/
 
+# Documentos
+*.docx
+
 
